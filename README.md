@@ -55,7 +55,7 @@ console.log('Web server rodando : O endereço de IP é ', wifi.getIP().ip);
   **Lembre-se de conectar o espruino com o ESP32 clicando no canto superior esquerdo.**
 </b></p>
 <p>2. Execute seu código e espere esse resultado:</p>
-<p align='center'><img src="images\Test.jpg" alt="Screen" width="700" height="350"></P>
+<p align='center'><img src="images\Test30.png" alt="Screen" width="700" height="350"></P>
 <p>3. Vá até o endereço de IP:</p>
 <p align='center'><img src="images\pagina.png" alt="Screen" width="700" height="350"></P>
 
