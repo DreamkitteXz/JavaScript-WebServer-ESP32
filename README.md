@@ -34,7 +34,7 @@ var http = require('http');
 http.createServer(processRequest).listen(port);
 console.log('Web server running : IP address is ', wifi.getIP().ip);
 });</code></pre></p>	
-<p>Por exemplo, se sua rede for <code>ETEFMC</code> e a senha for <code>123456</code> seu código deverá ficar desse jeito:</p>
+<p align='center'>Por exemplo, se sua rede for <code>ETEFMC</code> e a senha for <code>123456</code> seu código deverá ficar desse jeito:</p>
 <p align='center'><pre><code>var ssid = 'ETEFMC';
 var password = '123456';
 var port = 80;
@@ -51,12 +51,12 @@ http.createServer(processRequest).listen(port);
 console.log('Web server running : IP address is ', wifi.getIP().ip);
 });</code></pre></p>	
 
-<p>
+<p align='center'><b>
   **Lembre-se de conectar o espruino com o ESP32 clicando no canto superior esquerdo.**
-</p>
-<p> Execute seu código e espere esse resultado:</p>
+</b></p>
+<p>2. Execute seu código e espere esse resultado:</p>
 <p align='center'><img src="images\Test.jpg" alt="Screen" width="700" height="350"></P>
-<p> Vá até o endereço de IP:</p>
+<p>3. Vá até o endereço de IP:</p>
 <p align='center'><img src="images\pagina.png" alt="Screen" width="700" height="350"></P>
 
 <h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Você tem um WebServer básico rodando no seu ESP32, Agora é com você, seja criativo para criar seus projetos!!!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"></h4>
