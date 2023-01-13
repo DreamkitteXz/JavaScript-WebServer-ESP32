@@ -32,7 +32,7 @@ var wifi = require('Wifi');
 wifi.connect(ssid, {password: password}, function() {
 var http = require('http');
 http.createServer(processRequest).listen(port);
-console.log('Web server running : IP address is ', wifi.getIP().ip);
+console.log('Web server rodando : O endereço de IP é ', wifi.getIP().ip);
 });</code></pre></p>	
 <p align='center'>Por exemplo, se sua rede for <code>ETEFMC</code> e a senha for <code>123456</code> seu código deverá ficar desse jeito:</p>
 <p align='center'><pre><code>var ssid = 'ETEFMC';
@@ -48,7 +48,7 @@ var wifi = require('Wifi');
 wifi.connect(ssid, {password: password}, function() {
 var http = require('http');
 http.createServer(processRequest).listen(port);
-console.log('Web server running : IP address is ', wifi.getIP().ip);
+console.log('Web server rodando : O endereço de IP é ', wifi.getIP().ip);
 });</code></pre></p>	
 
 <p align='center'><b>
