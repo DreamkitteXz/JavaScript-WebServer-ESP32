@@ -1,5 +1,5 @@
 <h2 align='center'>
-  Escaneando redes Wifi com o Espruino no ESP32
+  An JavaScript WebServer using the ESP32 MCU with Espruino
 </h2>
 <h3>
   Visão geral 
