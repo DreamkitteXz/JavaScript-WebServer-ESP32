@@ -52,14 +52,11 @@ console.log('Web server running : IP address is ', wifi.getIP().ip);
 });</code></pre></p>	
 
 <p>
-  Para escrever este códiogo foi utilizado algumas funções na qual passaremos por cada uma:
+  **Lembre-se de conectar o espruino com o ESP32 clicando no canto superior esquerdo.**
 </p>
+<p> Execute seu código e espere esse resultado:</p>
+<p align='center'><img src="images\Test.jpg" alt="Screen" width="700" height="350"></P>
+<p> Vá até o endereço de IP:</p>
+<p align='center'><img src="images\pagina.png" alt="Screen" width="700" height="350"></P>
 
-
-
-
-
-
-
-
-<h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Você pode ver as redes vizinhas  com o Espruino no ESP32.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"></h4>
+<h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Você tem um WebServer básico rodando no seu ESP32, Agora é com você, seja criativo para criar seus projetos!!!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"></h4>
