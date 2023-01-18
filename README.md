@@ -57,6 +57,6 @@ console.log('Web server rodando : O endereço de IP é ', wifi.getIP().ip);
 <p>2. Execute seu código e espere esse resultado:</p>
 <p align='center'><img src="images\Test30.png" alt="Screen" width="700" height="300"></P>
 <p>3. Vá até o endereço de IP:</p>
-<p align='center'><img src="images\pagina.png" alt="Screen" width="700" height="300"></P>
+<p align='center'><img src="images\pagina.png" alt="Screen" width="700" height="350"></P>
 
 <h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Você tem um WebServer básico rodando no seu ESP32, Agora é com você, seja criativo para criar seus projetos!!!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"></h4>
